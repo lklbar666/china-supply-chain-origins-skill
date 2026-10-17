@@ -1,0 +1,31 @@
+MIT License
+
+Copyright (c) 2026 本技能包作者
+
+本许可覆盖：
+  - SKILL.md、README.md、NOTICE
+  - references/ 下的全部文档
+  - scripts/ 下的全部脚本（lookup.py、check_data.py、run_tests.py）
+  - assets/origins.json、assets/corrections.csv
+
+原始 100 条清单的著作权归原发布者（X @LuBtc888）所有。
+本包对原清单的使用属于评论与核实用途，不主张对原文的著作权；
+本许可仅覆盖核实结论、修正内容、方法论与脚本。
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
